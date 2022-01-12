@@ -1,6 +1,6 @@
 from numpy import *
 import math
-from utils import pairwise_distance
+from utils.utils import pairwise_distance
 
 seterr(all='ignore')
 
